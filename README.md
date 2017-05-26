@@ -1,10 +1,10 @@
 # Ft_ls
 
-`ft_ls` es tout simplement un copy de `ls`.
+`ft_ls` est tout simplement une copie de `ls`.
 
 ## Compiling
 
-executer `make`, un exécutable nommé `fdf` devrait compiler directement.
+En exécutant `make`, un exécutable nommé `ft_ls` sera compilé directement.
 
 ## Usage
 
