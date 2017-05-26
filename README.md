@@ -19,3 +19,4 @@ Exemple:
 ./ft_ls -lrR /bin
 ./ft_ls -l -r -G
 ```
+njv
